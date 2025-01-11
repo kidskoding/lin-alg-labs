@@ -1,1 +1,2 @@
 *.ipynb diff=python
+*.py diff=python
