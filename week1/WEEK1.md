@@ -1,8 +1,4 @@
-# Week 1 Lab: Introduction to NumPy Arrays
-
-### Objective
-Learn the basics of creating, manipulating, and using NumPy 
-arrays for linear algebra applications
+# Week 1 Labs
 
 #### Note: The $ symbol indicates a command line prompt that should be executed in the command line!
 
